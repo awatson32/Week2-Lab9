@@ -1,0 +1,21 @@
+.button-style {
+  padding: 9px;
+  background-color: white;
+  border: 1px solid black;
+}
+body {
+  text-align: center;
+}
+button {
+  padding: 9px;
+  background-color: white;
+  border: 1px solid black;
+}
+.button-container {
+  margin: 50%;
+  position: fixed;
+}
+form {
+  margin: 10px auto 0;
+  padding: 20px;
+}
